@@ -1,0 +1,75 @@
+.footer
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2%;
+    
+}
+.botlane p
+{
+    color: black;
+    font-size: 25px;
+}
+.botlane
+{
+    padding-top: 1%;
+    padding-bottom:1%;
+}
+.toplane
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+.vk
+{
+    margin-right: 45%;
+    margin-left: 40%;
+    transition: 0.3s;
+}
+.telega
+{
+    margin-right: 45%;
+    margin-left: 40%;
+    transition: 0.3s;
+
+}
+.wtsp
+{
+    margin-right: 45%;
+    margin-left: 40%;
+    transition: 0.3s;
+}
+.wtsp:hover
+{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    border: 1px solid black;
+    background-color: rgb(25, 216, 25);
+    border-radius: 60px;
+}
+.vk:hover
+{
+    padding-top: 3%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    border: 1px solid black;
+    background-color: rgb(25, 86, 216);
+    border-radius: 60px;
+}
+.telega:hover
+{
+    padding-top: 3%;
+    padding-left: 3%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    border: 1px solid black;
+    background-color: rgb(25, 194, 216);
+    border-radius: 60px;
+}
